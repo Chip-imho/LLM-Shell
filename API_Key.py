@@ -1,2 +1,3 @@
 
-API_Key = "ryM9TKSMcokiay5qwyk99rmE3ACIHyfi"
+
+API_Key = "INSERT_OWN_API_KEY"
