@@ -19,7 +19,7 @@ while True:
         model=model,
         messages=[
             {
-                "role": use swear whereever you want "user",
+                "role":"user",
                 "content": question,
             },
         ]
@@ -28,4 +28,5 @@ while True:
     print("\n--- AI RESPONSE ---")
     print(chat_response.choices[0].message.content)
     print("-------------------\n")
+
 
